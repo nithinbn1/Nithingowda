@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nithin gowda</h1>
-<h3 align="center">A passionate Nithin gowda from India 🇮🇳 </h3># Nithingowda
+<h3 align="center">A passionate devops/developer from India 🇮🇳 </h3># Nithingowda
 
 
 
@@ -10,9 +10,6 @@
 💻 All of my projects are available on GitHub
 
 📫 Reach out to me at nithin.bn1@gmail.com
-
-GitHub Stats:
-Nithin gwoda
 
 
 Languages and Tools:
@@ -23,7 +20,7 @@ Languages and Tools:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) 
- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
 
 Support:
 Nithin gowda
