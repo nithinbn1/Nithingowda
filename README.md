@@ -22,7 +22,7 @@ Languages and Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
 
-Support:
-Nithin gowda
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/chandansgowda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nithingowda" /></a></p><br><br>
 
 
